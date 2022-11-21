@@ -1,3 +1,1 @@
-# hi
-
-# hello
+# Git repository for Kings & Queens, chess program for Software Engineering.
